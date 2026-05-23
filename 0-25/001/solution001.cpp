@@ -3,7 +3,7 @@
 using namespace std;
 
 typedef long long ll;
-typedef __int128_t u128;
+typedef unsigned __int128 u128;
 
 typedef vector<ll> v64;
 typedef multiset<ll> m64;
