@@ -1,0 +1,9 @@
+Most important:
+--> even are spaced by 3;
+
+Thoughts:
+--> what is better: use 3 variables or chech % 3?
+
+Try after:
+--> see a pattern for them in the sequence;
+--> reduce recursion equation to see pattern for each 3;
