@@ -1,3 +1,4 @@
+# VS Code directory and workspace files
 .vscode/*
 !.vscode/settings.json
 !.vscode/tasks.json
@@ -5,6 +6,7 @@
 !.vscode/extensions.json
 *.code-workspace
 
+# OS-generated files (macOS and Windows)
 .DS_Store
 .DS_Store?
 ._*
@@ -13,11 +15,15 @@
 ehthumbs.db
 Thumbs.db
 
+# Environment variables and secrets
 .env
 .env.local
 .env.*.local
 *.pem
 
-
+# Log files and directories
 *.log
 logs/
+
+# Compiled executables
+*.exe
