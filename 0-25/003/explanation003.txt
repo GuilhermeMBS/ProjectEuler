@@ -1,0 +1,3 @@
+Most important:
+--> try only until the sqrt of the number to make the solution viable in time;
+--> the rest after all divisions must be a prime (prove by contradition);
