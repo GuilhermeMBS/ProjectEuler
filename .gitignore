@@ -1,9 +1,5 @@
 # VS Code directory and workspace files
-.vscode/*
-!.vscode/settings.json
-!.vscode/tasks.json
-!.vscode/launch.json
-!.vscode/extensions.json
+.vscode/
 *.code-workspace
 
 # OS-generated files (macOS and Windows)
