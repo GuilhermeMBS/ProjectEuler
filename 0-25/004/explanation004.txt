@@ -1,0 +1,6 @@
+Most Important:
+--> Brute force would be like 900*900/2 = 405.000 attempts, which is okay
+--> You can make a Branch and Bound, cause if i*j is a palindrome, you don't need to check the the other j's
+--> You don't need to check the other i's as well if i*i < biggest palindrome
+--> As we know, 121*121 is a palindrome, so it can be your limit check
+--> This improves the code for 6162 iterations only
